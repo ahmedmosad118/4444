@@ -9,9 +9,9 @@
 #define DIO_INT_H_
 
 #define DIO_PORTA  0
-#define DIO_PORTB  1
-#define DIO_PORTC  2
+#define DIO_PORTB  1  
 #define DIO_PORTD  3
+// Change 
 
 
 #define DIO_PIN0   0
